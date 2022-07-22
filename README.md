@@ -5,3 +5,7 @@ Git 再次修改 master
 feature-A分支
 feature-A分支,再次修改
 feature-A分支,第三次修改
+
+feature-A
+fix-B
+faeture-C
